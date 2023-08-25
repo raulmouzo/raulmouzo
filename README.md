@@ -2,7 +2,8 @@
 
 ## About Me
 
-Hello there! I'm Raúl Mouzo, a passionate computer engineering student at the University of A Coruña (UDC). My journey in the world of technology has been an exciting one, and I'm particularly enthusiastic about cybersecurity and Linux. 
+Hello there! I'm Raúl Mouzo. I am a computer engineering student with a true passion for cybersecurity. Throughout my academic journey, I have had the privilege of immersing myself in the fascinating realm of computer security. Through self-directed learning, I have aimed to complement my university education, aiming to enhance my skills and knowledge in this field.
+
 
 ## What I Love
 
