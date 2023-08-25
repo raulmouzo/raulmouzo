@@ -22,6 +22,6 @@ I believe in continuous learning, and my current focus areas include:
 
 - Diving deeper into Linux internals, understanding kernel operations, and honing my command-line skills.
 
-_Keep exploring, keep learning, and keep innovating!_
+_"You can never protect yourself 100%. What you do is protect yourself as much as possible and mitigate risk to an acceptable degree. You can never remove all risk."_ - Kevin Mitnick
 
 
