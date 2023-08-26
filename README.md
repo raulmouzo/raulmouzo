@@ -26,3 +26,4 @@ I believe in continuous learning, and my current focus areas include:
 _"You can never protect yourself 100%. What you do is protect yourself as much as possible and mitigate risk to an acceptable degree. You can never remove all risk."_ - Kevin Mitnick
 
 
+![Snake animation](snake_animation.svg)
