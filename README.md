@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 💻✨
+# Welcome to My GitHub Profile! 👋💻✨
 
 ## About Me
 
