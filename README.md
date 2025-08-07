@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Raúl 
 
----
-
 ## 🚀 About Me
 
 - 🎓 **Academic Focus**:  
