@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Raúl 
 
-I'm a **Computer Engineering student** at University of A Coruña (UDC) currently pursuing studies at University of Valencia (UV).  
-
 ---
 
 ## 🚀 About Me
