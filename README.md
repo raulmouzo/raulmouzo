@@ -1,33 +1,10 @@
-# 👋 Hi there, I'm Raúl 
+## Hi, I’m Raúl
 
-## 🚀 About Me
+Full-stack and systems engineer with experience across **frontend, backend, and infrastructure**.
 
-- 🎓 **Academic Focus**:  
-  - IT Systems and Networks  
+I work with **JavaScript and TypeScript** in modern frontend development (**React, Tailwind**) and backend systems using **Node.js** (**NestJS**) and **Python** (**Django, FastAPI**).
+I also have strong experience with **Docker, Linux, and server management**, and I enjoy exploring **cybersecurity and networking** as a hands-on technical interest.
 
-- 💻 **Interests**:  
-  - Information Technology (IT)  
-  - Networking and Infrastructure  
-  - Cybersecurity  
-  - Systems Administration and Operating Systems  
-  - Containerization and Docker Ecosystem  
-  - Development and Automation 
-
----
-
-## 🛠️ Tech Skills  
-
-- **Programming**: C, Python, Bash, Java
-- **Networking**: Cisco systems, Packet Tracer, Wireshark
-- **Tools**: Git, Linux, Docker
-
----
-
-## 📫 Contact  
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/raulmouzo)  
-- 📧 **Email**: [raulmouzo20@gmail.com](mailto:raulmouzo20@gmail.com)  
-
----
-
-*Let's connect and build something great together!* 🚀  
+Contact
+LinkedIn: [https://www.linkedin.com/in/raulmouzo](https://www.linkedin.com/in/raulmouzo)
+Email: **[raulmouzo@proton.me](mailto:raulmouzo@proton.me)**
