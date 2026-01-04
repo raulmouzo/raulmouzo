@@ -6,5 +6,5 @@ I work with **JavaScript and TypeScript** in modern frontend development (**Reac
 I also have strong experience with **Docker, Linux, and server management**, and I enjoy exploring **cybersecurity and networking** as a hands-on technical interest.
 
 Contact
-LinkedIn: [https://www.linkedin.com/in/raulmouzo](https://www.linkedin.com/in/raulmouzo)
-Email: **[raulmouzo@proton.me](mailto:raulmouzo@proton.me)**
+* LinkedIn: [https://www.linkedin.com/in/raulmouzo](https://www.linkedin.com/in/raulmouzo)
+* Email: **[raulmouzo@proton.me](mailto:raulmouzo@proton.me)**
